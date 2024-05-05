@@ -16,6 +16,11 @@ I was inspired by the concept of Personality Cores that GlaDOS from the Potal se
 - [ ] Make request prompts more performant
 - [ ] Create WebUI
 
+## Description
+
+In Valve's Potal game series, there's a very large AI named GlaDOS. She's connected to several Personality Cores (she's actually a Core too), and she makes decisions based on their opinion.
+I was inspired by this and implemented it as an LLM prompt method using the Llama3-Instruct model.
+
 ## How to use
 
 1. Run server api of llama.cpp
